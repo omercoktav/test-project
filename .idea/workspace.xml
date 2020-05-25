@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7096dcf3-b94f-468c-aa4e-0f73a466f2f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUw42p1XBeD412mC0sAeiVsnKC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Event/api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Boomset\boomset\Event\api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Boomset\boomset\session\api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django tests.Test: session.tests.CreateTestSession.test_session_UpdateDelete">
+    <configuration name="Test: Event.tests.CreateTestEvent" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="boomset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="Event.tests.CreateTestEvent" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: Event.tests.CreateTestEvent.test_create_event" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="boomset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="Event.tests.CreateTestEvent.test_create_event" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: Event.tests.CreateTest.test_create_event" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="boomset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="Event.tests.CreateTest.test_create_event" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: session.tests.CreateTestSession.test_create_session" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="boomset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="session.tests.CreateTestSession.test_create_session" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: session.tests.CreateTestSession.test_session_UpdateDelete" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="boomset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="session.tests.CreateTestSession.test_session_UpdateDelete" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boomset" type="Python.DjangoServer" factoryName="Django server">
+      <module name="boomset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="boomset.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: session.tests.CreateTestSession.test_session_UpdateDelete" />
+        <item itemvalue="Django tests.Test: session.tests.CreateTestSession.test_create_session" />
+        <item itemvalue="Django tests.Test: Event.tests.CreateTestEvent.test_create_event" />
+        <item itemvalue="Django tests.Test: Event.tests.CreateTestEvent" />
+        <item itemvalue="Django tests.Test: Event.tests.CreateTest.test_create_event" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7096dcf3-b94f-468c-aa4e-0f73a466f2f4" name="Default Changelist" comment="" />
+      <created>1584906785776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584906785776</updated>
+      <workItem from="1584906803976" duration="1174000" />
+      <workItem from="1584983745383" duration="3769000" />
+      <workItem from="1585060556270" duration="5705000" />
+      <workItem from="1585074387951" duration="5526000" />
+      <workItem from="1585167276698" duration="148000" />
+      <workItem from="1586037439693" duration="6087000" />
+      <workItem from="1586093354231" duration="5149000" />
+      <workItem from="1586119426642" duration="3433000" />
+      <workItem from="1586123744862" duration="1887000" />
+      <workItem from="1586177591896" duration="3862000" />
+      <workItem from="1586196245776" duration="2496000" />
+      <workItem from="1586260248172" duration="847000" />
+      <workItem from="1586263451771" duration="2013000" />
+      <workItem from="1586265510991" duration="3584000" />
+      <workItem from="1588642678356" duration="4464000" />
+      <workItem from="1588819937518" duration="2322000" />
+      <workItem from="1588822325927" duration="475000" />
+      <workItem from="1588822848905" duration="381000" />
+      <workItem from="1588823740755" duration="1074000" />
+      <workItem from="1588858567052" duration="34000" />
+      <workItem from="1588901233939" duration="2195000" />
+      <workItem from="1589078960804" duration="1210000" />
+      <workItem from="1589246338687" duration="1196000" />
+      <workItem from="1589288241812" duration="1101000" />
+      <workItem from="1589333277736" duration="1816000" />
+      <workItem from="1589405547859" duration="4948000" />
+      <workItem from="1589410942059" duration="2250000" />
+      <workItem from="1589421285880" duration="4675000" />
+      <workItem from="1589463676367" duration="5591000" />
+      <workItem from="1589543958338" duration="675000" />
+      <workItem from="1589553744016" duration="353000" />
+      <workItem from="1589592077662" duration="5267000" />
+      <workItem from="1589597784445" duration="627000" />
+      <workItem from="1589677145992" duration="6646000" />
+      <workItem from="1589763462680" duration="6430000" />
+      <workItem from="1589853536291" duration="7108000" />
+      <workItem from="1590409445776" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586301678417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586301678417" />
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589862684200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589862684200" />
+    <state x="462" y="121" key="FileChooserDialogImpl" timestamp="1586302635331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586302635331" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1589862691626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589862691626" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1589862691626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589862691626" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1589862691626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589862691626" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1589862691626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589862691626" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1589862691626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589862691626" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1589862691626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589862691626" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1589862691626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589862691626" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1589862691626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589862691626" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1584907105711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584907105711" />
+    <state x="0" y="0" width="710" height="728" key="find.popup" timestamp="1586038217497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="710" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1586038217497" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589595940237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589595940237" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/boomset$Test__Event_tests_CreateTestEvent_test_create_event.coverage" NAME="Test: Event.tests.CreateTestEvent.test_create_event Coverage Results" MODIFIED="1589860720408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/boomset$Test__session_tests_CreateTest_test_create_session.coverage" NAME="Test: session.tests.CreateTest.test_create_session Coverage Results" MODIFIED="1589858801389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/boomset$Test__session_tests_CreateTestSession_test_create_session.coverage" NAME="Test: session.tests.CreateTestSession.test_create_session Coverage Results" MODIFIED="1589862591606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/boomset$Test__session_tests_CreateTest_test_session_list.coverage" NAME="Test: session.tests.CreateTest.test_session_list Coverage Results" MODIFIED="1589858818222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/boomset$Test__Event_tests_CreateTest_test_list_event.coverage" NAME="Test: Event.tests.CreateTest.test_list_event Coverage Results" MODIFIED="1589858859161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/boomset$Test__Event_tests_CreateTestEvent.coverage" NAME="Test: Event.tests.CreateTestEvent Coverage Results" MODIFIED="1589860024991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/boomset$Test__Event_tests_CreateTest_test_create_event.coverage" NAME="Test: Event.tests.CreateTest.test_create_event Coverage Results" MODIFIED="1589859761677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/boomset$Test__session_tests_CreateTest.coverage" NAME="Test: session.tests.CreateTest Coverage Results" MODIFIED="1589768986197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/boomset$Test__Event_tests_CreateTest.coverage" NAME="Test: Event.tests.CreateTest Coverage Results" MODIFIED="1589859045455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/boomset$Test__session_tests_CreateTestSession_test_session_UpdateDelete.coverage" NAME="Test: session.tests.CreateTestSession.test_session_UpdateDelete Coverage Results" MODIFIED="1589862645093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
